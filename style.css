@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: arial, sans-serif;
+  max-width: 100%;
 }
 
 html,
@@ -187,5 +188,10 @@ footer h4 {
 }
 
 .links-2 {
+  padding-right: 18.7px;
+  flex: 1;
+}
+
+.links-3 {
   padding-right: 18.7px;
 }
